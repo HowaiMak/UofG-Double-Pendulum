@@ -1,5 +1,6 @@
 # Chaos in the Double Pendulum
 Theoretical Physics Group Project 2023-01-31
+Report and presentations are also attached.
 
 ## University of Glasgow Group Project (PHYS4029P)
 ### Co-developed with Bartosz Sobula (2557113s), Nathan Weir (2565037w)
