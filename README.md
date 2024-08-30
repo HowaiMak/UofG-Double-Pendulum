@@ -9,5 +9,6 @@ This report is dedicated in using mathematical models and simulations to investi
 Our goal is to gain insights into the factors affecting pendulum motion and to demonstrate how these factors can be controlled in the case of the simple pendulum, or result in significant differences in the behavior of the double pendulum over time.
 
 ## Implementation
-The simulation is run on Jupyter Notebook, please visit the official site for futher information:
+The simulation is run on Jupyter Notebook (ipython) and can be run easily on Windows or Mac OS using Visual Studio or from online terminals
+For more information please visit the official site for futher information:
 - https://jupyter.org/
