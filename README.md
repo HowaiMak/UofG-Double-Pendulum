@@ -1,14 +1,25 @@
-# Chaos in the Double Pendulum
-Theoretical Physics Group Project 2023-01-31
-Report and presentations are also attached.
+# Chaos in the Double Pendulum  
+**Theoretical Physics Group Project** – January 31, 2023  
+This repository contains our report and presentations.  
 
-## University of Glasgow Group Project (PHYS4029P)
-### Co-developed with Bartosz Sobula (2557113s), Nathan Weir (2565037w)
-This report is dedicated in using mathematical models (Runge-Kutta 4) and simulations to investigate the behavior of both the simple and double pendulum under various conditions.
+## University of Glasgow – Group Project (PHYS4029P)  
+### Co-developed by:  
+- **Bartosz Sobula** (2557113s)  
+- **Nathan Weir** (2565037w)  
 
-Our goal is to gain insights into the factors affecting pendulum motion and to demonstrate how these factors can be controlled in the case of the simple pendulum, or result in significant differences in the behavior of the double pendulum over time.
+## Overview  
+This project explores the behavior of both the **simple** and **double pendulum** using mathematical models and numerical simulations. We employ the **Runge-Kutta 4 (RK4) method** to analyze the dynamics under various conditions.  
 
-## Implementation
-The simulation is run on Jupyter Notebook (ipython) and can be run easily on Windows or Mac OS using Visual Studio or from online terminals
-For more information please visit the official site for futher information:
-- https://jupyter.org/
+### Objectives  
+- Investigate the factors influencing pendulum motion.  
+- Demonstrate how these factors can be controlled in a **simple pendulum**.  
+- Highlight the **chaotic behavior** of the **double pendulum**, showing how small differences in initial conditions lead to vastly different outcomes over time.  
+
+## Contents  
+- **Report** – Detailed analysis of our findings.  
+- **Presentations** – Slides summarizing key insights.  
+- **Code & Simulations** – RK4 implementations for modeling pendulum motion.  
+
+---  
+© 2023 University of Glasgow – Theoretical Physics Group  
+
